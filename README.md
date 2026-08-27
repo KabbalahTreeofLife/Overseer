@@ -59,7 +59,3 @@ cp .env.example .env.local
 - **Visualization:** D3.js
 - **Data Fetching:** SWR
 - **APIs:** OpenAlex, Semantic Scholar, arXiv
-
-## License
-
-MIT
